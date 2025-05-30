@@ -1,0 +1,1 @@
+En el TEST_1 se realizó una medición ADC por polling, y la obtención de 100 muestras se realizó en 31 ticks de reloj. En estas mediciones se obtuvo una media de 1889 y un desvío estándar de 2,907.
